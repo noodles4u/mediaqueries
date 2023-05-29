@@ -1,6 +1,9 @@
 # mediaqueries
 
+
+
 ## A mediaqueries playground
+### Common viewport breakpoints
 
             /_ Extra small devices (phones, 600px and down) _/
             @media only screen and (max-width: 600px) {...}
